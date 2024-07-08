@@ -1,0 +1,75 @@
+
+body{
+    font-family: arial, verdana, sans-serif;
+    
+}
+
+.body-content{
+    margin-left: 55px;
+    text-align: center;
+    margin-top: 110px;
+    padding-right: 60px;
+    margin-bottom: 18px;
+    color: white;
+    font-size: 85px;
+}
+
+.gtext{
+    color: rgb(30, 178, 228);
+    font-size: 95px;
+    text-align: center;
+    font-weight: bold;
+}
+.otext{
+    color: rgb(230, 35, 35);
+    font-size: 90px;
+    text-align: center;font-weight: bold;
+}
+
+.obtext{
+    color: rgb(231, 231, 19);
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.gotext{
+    color: rgb(30, 178, 228);
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ltext{
+    color: green;
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.etext{
+    color: rgb(230, 35, 35);
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.form-styling{
+    text-align: center;
+}
+    
+    
+
+
+input#search-form {
+    /* width: 260px; */
+    width: 600px;
+    height: 45px;
+    border: 1px solid #555;
+    /* display: block; */
+    
+    padding: 9px 4px 9px 40px;
+    border-radius: 20px;
+    /* background: transparent url("../images/search.png") no-repeat 5px;  */
+}
